@@ -1,0 +1,14 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.display{
+    background:yellow;  
+}
+.container-fluids{
+    padding-top: 50px;
+    padding-bottom:50px;
+    color:#777;
+    background:red;
+}
